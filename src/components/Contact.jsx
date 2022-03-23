@@ -18,7 +18,7 @@ const Contact = () => {
               d="M12 12.713l-11.985-9.713h23.971l-11.986 9.713zm-5.425-1.822l-6.575-5.329v12.501l6.575-7.172zm10.85 0l6.575 7.172v-12.501l-6.575 5.329zm-1.557 1.261l-3.868 3.135-3.868-3.135-8.11 8.848h23.956l-8.11-8.848z" />
           </svg> hiba.ri@gmail.com</p>
         
-        <p className="font-sans text-sm md:text-lg my-2 md:my-4">Or find me on Instagram by clicking at <span><a className="text-yellow-500" href="">@hiba_ri</a></span>, I'll be happy to hear from you.</p>
+        <p className="font-sans text-sm md:text-lg my-2 md:my-4">Or find me on Instagram by clicking on <span><a className="text-yellow-500" href="https://www.instagram.com/hiba_ri/?hl=fr">@hiba_ri</a></span>, I'll be happy to hear from you.</p>
       </div>
       <div className=" flex flex-col lg:w-3/5 justify-center w-full lg:-mt-12">
         <div className="container">
