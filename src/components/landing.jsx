@@ -3,7 +3,7 @@ const Landing = () => {
   return (
 
       
-    <div className="  min-h-screen flex flex-col justify-center items-center gap-y-12 bg-[url('https://i.imgur.com/zmacdcu.gif')]	">
+    <div id='home' className="  min-h-screen flex flex-col justify-center items-center gap-y-12 bg-[url('https://i.imgur.com/zmacdcu.gif')]	">
            
 
         <div >
@@ -14,7 +14,7 @@ const Landing = () => {
             <p className='text-lg'>Hello everyone, my name is hiba, I am a 23 years old moroocan artist from Rabat city,<br/> I love to do alot of things but mainly I draw. decided to share my art with the world,<br/> so here I am.  hope you enjoy my work. </p>
         </div>
         <div className='text-white'>
-            <button className='ring-2 ring-yellow-500
+            <button href='' className='ring-2 ring-yellow-500
              p-2 hover:p-3 rounded-lg	'>See my art !</button>
         </div>
         

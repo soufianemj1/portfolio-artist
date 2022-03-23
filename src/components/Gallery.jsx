@@ -8,7 +8,7 @@ import image5 from "../images/image5.jpg"
 const Gallery = () => {
   return (
     // <div className="min-h-screen"> 
-<div className="max-w-screen min-h-screen p-4 dark:bg-gray-800  px-4 sm:px-6 lg:px-8 py-20 ">
+<div id="art" className="max-w-screen min-h-screen p-4 bg-black  px-4 sm:px-6 lg:px-8 py-20 ">
     <div className="relative">
         <div className="lg:grid lg:grid-flow-row-dense lg:grid-cols-2 lg:gap-8 lg:items-center">
             <div className="lg:col-start-2 lg:max-w-2xl ml-auto">
@@ -38,7 +38,6 @@ const Gallery = () => {
     </div>
 </div>
 
-    // </div>
   )
 }
 
